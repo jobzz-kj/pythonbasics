@@ -1,4 +1,9 @@
 import turtle
+a=5
+print(a)
+
+b="hello"
+print(b)
 jobzz_turtle=turtle.Turtle()
 
 jobzz_turtle.forward(100)
