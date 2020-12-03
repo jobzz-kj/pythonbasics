@@ -16,4 +16,5 @@ elephant_w8 = 3000
 ant_w8 = 1
 if elephant_w8 > ant_w8:
   square()
-
+else:
+  jobzz_turtle.forward(100)
