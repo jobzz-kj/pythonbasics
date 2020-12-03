@@ -1,0 +1,5 @@
+#data types- types of data which computer can identify
+#primitive data types- base level data types-->4 are there-->integers,floats,strings,booleans(true or false)
+#integers-->1,2,3
+#floats-->2.3,4.3,-0.433
+#strings-->'hai','3'-->anything enclosed in a '' or "" can be considered as a string
