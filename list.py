@@ -20,3 +20,5 @@ names.reverse() # to reverse a list
 numbers=[6,4,2]
 print(numbers)#prints normaly
 numbers.sort() #sorts in ascending normally
+for number in number: #i.e a list is iterable, we can iterate through each element and do what we need!
+  print(number)
